@@ -1,6 +1,9 @@
-# **Module 3 Challenge: Crypto Arbitrage**
 
-## Crypto Arbitrage
+
+# Crypto Arbitrage
+
+
+## Overview
 
 The Crypto Abritrage project is about understanding the profits from different exchanges. It analyzes different periods of time to check what are the profits for each period. It also gives you a visual analysis of its data.
 

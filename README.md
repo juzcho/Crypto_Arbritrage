@@ -52,7 +52,7 @@ This gif below shows how the loan qualifier works for the user.
 
 Contributed by: Justine Cho
 
-Email: juz317_cho@yahoo.com
+Email: chojustine0@gmail.com
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/justinecho)
 
